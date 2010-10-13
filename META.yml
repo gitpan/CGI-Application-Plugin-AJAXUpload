@@ -26,10 +26,10 @@ name: CGI-Application-Plugin-AJAXUpload
 provides:
   CGI::Application::Plugin::AJAXUpload:
     file: lib/CGI/Application/Plugin/AJAXUpload.pm
-    version: v0.0.1
+    version: v0.0.2
   Data::FormValidator::Filters::ImgData:
     file: lib/Data/FormValidator/Filters/ImgData.pm
-    version: v0.0.1
+    version: v0.0.2
 requires:
   CGI: 3.41
   CGI::Application: 0
@@ -43,4 +43,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/periapt/CGI-Application-Plugin-AJAXUpload/tree
-version: v0.0.1
+version: v0.0.2
