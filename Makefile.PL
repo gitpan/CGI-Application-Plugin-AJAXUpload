@@ -14,6 +14,7 @@ WriteMakefile
                            'GD' => 0,
                            'Perl6::Slurp' => 0,
                            'Readonly' => 0,
+                           'Test::CGI::Multipart' => 0,
                            'Test::Image::GD' => 0,
                            'Test::More' => '0.94',
                            'Test::NoWarnings' => 0,

@@ -4,7 +4,7 @@ NAME
 
 VERSION
     This document describes CGI::Application::Plugin::AJAXUpload version
-    0.0.2
+    0.0.3
 
 SYNOPSIS
         use MyWebApp;
